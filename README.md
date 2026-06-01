@@ -44,7 +44,6 @@
 - [Challenges Faced](#-challenges-faced)
 - [Future Improvements](#-future-improvements)
 - [Skills Demonstrated](#-skills-demonstrated)
-- [Resume Highlights](#-resume-highlights)
 - [About the Developer](#-about-the-developer)
 - [Contributing](#-contributing)
 - [License](#-license)
