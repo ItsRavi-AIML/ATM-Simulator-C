@@ -46,7 +46,6 @@
 - [Skills Demonstrated](#-skills-demonstrated)
 - [About the Developer](#-about-the-developer)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 ## 📊 Project Statistics
