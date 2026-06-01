@@ -1,0 +1,8 @@
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+receipt*.txt
+
+.vscode/
